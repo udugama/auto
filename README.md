@@ -1,4 +1,4 @@
-# prasad Udugama's <udugama@gmail.com> Auto and General test
+# prasad Udugama's <udugama@gmail.com> auto test
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
